@@ -1,5 +1,0 @@
-﻿*****************************Medical Research Application**********************
-
-1. Add Disease Detail
-2. Add Symptom to Diseas
-3. Check Patient
